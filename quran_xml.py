@@ -3,8 +3,6 @@ import xml.etree.ElementTree as et
 tree = et.parse("./quranChapter.xml")
 root = tree.getroot()
 
-# surahas = root.find("Chapters")
-
 # for val in root.findall("sura"):
 #     chapter = val.attrib.get("tname")
 #     print(chapter)

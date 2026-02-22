@@ -1,0 +1,182 @@
+index: 7
+ayas: 206
+start: 954
+name: الأعراف
+tname: Al-A'raaf
+ename: The Heights
+type: Meccan
+order: 39
+rukus: 24
+sajda_index: 1
+sajda_aya: 206
+sajda_type: recommended
+
+index: 13
+ayas: 43
+start: 1707
+name: الرعد
+tname: Ar-Ra'd
+ename: The Thunder
+type: Medinan
+order: 96
+rukus: 6
+sajda_index: 2
+sajda_aya: 15
+sajda_type: recommended
+
+index: 16
+ayas: 128
+start: 1901
+name: النحل
+tname: An-Nahl
+ename: The Bee
+type: Meccan
+order: 70
+rukus: 16
+sajda_index: 3
+sajda_aya: 50
+sajda_type: recommended
+
+index: 17
+ayas: 111
+start: 2029
+name: الإسراء
+tname: Al-Israa
+ename: The Night Journey
+type: Meccan
+order: 50
+rukus: 12
+sajda_index: 4
+sajda_aya: 109
+sajda_type: recommended
+
+index: 19
+ayas: 98
+start: 2250
+name: مريم
+tname: Maryam
+ename: Mary
+type: Meccan
+order: 44
+rukus: 6
+sajda_index: 5
+sajda_aya: 58
+sajda_type: recommended
+
+index: 22
+ayas: 78
+start: 2595
+name: الحج
+tname: Al-Hajj
+ename: The Pilgrimage
+type: Medinan
+order: 103
+rukus: 10
+sajda_index: 6, 7
+sajda_aya: 18, 77
+sajda_type: recommended, recommended
+
+index: 25
+ayas: 77
+start: 2855
+name: الفرقان
+tname: Al-Furqaan
+ename: The Criterion
+type: Meccan
+order: 42
+rukus: 6
+sajda_index: 8
+sajda_aya: 60
+sajda_type: recommended
+
+index: 27
+ayas: 93
+start: 3159
+name: النمل
+tname: An-Naml
+ename: The Ant
+type: Meccan
+order: 48
+rukus: 7
+sajda_index: 9
+sajda_aya: 26
+sajda_type: recommended
+
+index: 32
+ayas: 30
+start: 3503
+name: السجدة
+tname: As-Sajda
+ename: The Prostration
+type: Meccan
+order: 75
+rukus: 3
+sajda_index: 10
+sajda_aya: 15
+sajda_type: obligatory
+
+index: 38
+ayas: 88
+start: 3970
+name: ص
+tname: Saad
+ename: The letter Saad
+type: Meccan
+order: 38
+rukus: 5
+sajda_index: 11
+sajda_aya: 24
+sajda_type: recommended
+
+index: 41
+ayas: 54
+start: 4218
+name: فصلت
+tname: Fussilat
+ename: Explained in detail
+type: Meccan
+order: 61
+rukus: 6
+sajda_index: 12
+sajda_aya: 38
+sajda_type: obligatory
+
+index: 53
+ayas: 62
+start: 4784
+name: النجم
+tname: An-Najm
+ename: The Star
+type: Meccan
+order: 23
+rukus: 3
+sajda_index: 13
+sajda_aya: 62
+sajda_type: obligatory
+
+index: 84
+ayas: 25
+start: 5884
+name: الإنشقاق
+tname: Al-Inshiqaaq
+ename: The Splitting Open
+type: Meccan
+order: 83
+rukus: 1
+sajda_index: 14
+sajda_aya: 21
+sajda_type: recommended
+
+index: 96
+ayas: 19
+start: 6106
+name: العلق
+tname: Al-Alaq
+ename: The Clot
+type: Meccan
+order: 1
+rukus: 1
+sajda_index: 15
+sajda_aya: 19
+sajda_type: obligatory
+

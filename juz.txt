@@ -1,0 +1,32 @@
+Juz detail - start from chapter:verse (surah:ayat)
+
+Juz 1 start from verse 1 of chapter 1
+Juz 2 start from verse 142 of chapter 2
+Juz 3 start from verse 253 of chapter 2
+Juz 4 start from verse 93 of chapter 3
+Juz 5 start from verse 24 of chapter 4
+Juz 6 start from verse 148 of chapter 4
+Juz 7 start from verse 82 of chapter 5
+Juz 8 start from verse 111 of chapter 6
+Juz 9 start from verse 88 of chapter 7
+Juz 10 start from verse 41 of chapter 8
+Juz 11 start from verse 93 of chapter 9
+Juz 12 start from verse 6 of chapter 11
+Juz 13 start from verse 53 of chapter 12
+Juz 14 start from verse 1 of chapter 15
+Juz 15 start from verse 1 of chapter 17
+Juz 16 start from verse 75 of chapter 18
+Juz 17 start from verse 1 of chapter 21
+Juz 18 start from verse 1 of chapter 23
+Juz 19 start from verse 21 of chapter 25
+Juz 20 start from verse 56 of chapter 27
+Juz 21 start from verse 46 of chapter 29
+Juz 22 start from verse 31 of chapter 33
+Juz 23 start from verse 28 of chapter 36
+Juz 24 start from verse 32 of chapter 39
+Juz 25 start from verse 47 of chapter 41
+Juz 26 start from verse 1 of chapter 46
+Juz 27 start from verse 31 of chapter 51
+Juz 28 start from verse 1 of chapter 58
+Juz 29 start from verse 1 of chapter 67
+Juz 30 start from verse 1 of chapter 78
